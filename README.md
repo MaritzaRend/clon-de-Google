@@ -16,12 +16,12 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 ¿Aceptas el reto🤓?
 
 ## 2.Demostración
-Puedes entrar a ver el Demo en este vínculo:https://main--sprightly-praline-d188c9.netlify.app/
+Puedes entrar a ver el Demo en este vínculo: https://main--sprightly-praline-d188c9.netlify.app/
 
 La idea es inspirarte con esta demostración de mi proyecto.
 **Quizá no te quede indéntico o quizá te quede muchomejos que a mí,** utliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programar(a) web.👩🏻💻👦🏻
 
-![imagen]("./../Imágenes/goo.png")
+![imagen]("./../Imágenes/goo.jpeg")
 
 ## 3. ¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
