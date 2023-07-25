@@ -3,12 +3,11 @@ Es un proyecto realizado con la intención de aplicar los conocimientos aprendid
 Puedes poner un práctica tus habilidades revisando y utilizando el código a continuación.
 
 ## Índice
-* [1. Introducción](url)
-* [2. Demostración](url)
-* [3. ¿Qué construirás?](url)
-* [4. Objetivos de apendizaje](url)
-* [5. Requisitos](url)
-* [6. Experiencia personal](url)
+* [1. Introducción](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#1introducci%C3%B3n)
+* [2. Demostración](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#2demostraci%C3%B3n)
+* [3. ¿Qué construirás?](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de apendizaje](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#4-objetivos-de-apendizaje)
+* [5. Requisitos](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#5-requisitos)
 ****
 
 ## 1.Introducción
@@ -48,4 +47,5 @@ Aplicarás:
 
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
-## 6. Experiencia personal
+### General
+El apendizaje obtenido
