@@ -48,7 +48,9 @@ Aplicarás:
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
 ### General
-El apendizaje obtenido en las sesiones en base al clon de Google
+Mi experiencia y apendizaje obtenido en las sesiones en base al clon de Google, fue que al crear esta réplica de uno de los sitios web más populares y complejos que existen en el mundo de la tecnología es un logro impresionante para mí.
+
+A lo largo de este proyecto, estoy segura de que he adquirido habilidades y conocimientos en desarrollo web. La combinación de HTML y CSS me ha permitido aprender sobre la estructura y el diseño de páginas web de manera más profunda. Desde la maquetación de la interfaz hasta la disposición de los elementos en una página, con ello, he tenido que enfrentarme a varios desafíos y resolver problemas creativamente.
 
 ### UI
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
