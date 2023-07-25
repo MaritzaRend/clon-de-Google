@@ -21,7 +21,7 @@ Puedes entrar a ver el Demo en este vínculo:https://main--sprightly-praline-d18
 La idea es inspirarte con esta demostración de mi proyecto.
 **Quizá no te quede indéntico o quizá te quede muchomejos que a mí,** utliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programar(a) web.👩🏻💻👦🏻
 
-![imagen]("./../Imágenes/f7a3e549-6cdb-411b-9619-74d7b5806ebc.jpeg")
+![imagen]("./../Imágenes/https://github.com/MaritzaRend/clon-de-Google/blob/main/Im%C3%A1genes/f7a3e549-6cdb-411b-9619-74d7b5806ebc.jpeg")
 
 ## 3. ¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
