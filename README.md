@@ -8,6 +8,7 @@ Puedes poner un práctica tus habilidades revisando y utilizando el código a co
 * [3. ¿Qué construirás?](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de apendizaje](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#4-objetivos-de-apendizaje)
 * [5. Requisitos](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#5-requisitos)
+* [6. Contacto]()
 ****
 
 ## 1. Introducción
@@ -56,4 +57,9 @@ A lo largo de este proyecto, estoy segura de que he adquirido habilidades y cono
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
 - [ ] Aplicar tipos de selectores en CSS.
 - [ ] Sección `Header`, `Main`, `Footer`
+
+## 6. Contacto
+Desarrollado por: **Tecnolochicas PRO Summer Camp**.
+[Maritza Rendon](https://www.linkedin.com/in/maritza-rendon/).
+
 
