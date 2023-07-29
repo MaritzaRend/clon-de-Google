@@ -23,7 +23,7 @@ La idea es inspirarte con esta demostración de mi proyecto.
 
 (https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Captura 2.jpg)
 
-![Imagen]("Imágenes/Captura 2.JPG")
+![Imagen]("imágenes/captura.JPG")
 
 ## 3. ¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
