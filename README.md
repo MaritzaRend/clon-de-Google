@@ -8,7 +8,7 @@ Puedes poner un práctica tus habilidades revisando y utilizando el código a co
 * [3. ¿Qué construirás?](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de apendizaje](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#4-objetivos-de-apendizaje)
 * [5. Requisitos](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#5-requisitos)
-* [6. Contacto]()
+* [6. Contacto](https://github.com/MaritzaRend/clon-de-Google/blob/main/README.md#6-contacto)
 ****
 
 ## 1. Introducción
